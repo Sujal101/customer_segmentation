@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means Clustering
-
+ Cluster 0 | Budget Customers (Low Income, Low Spending) |
+| Cluster 1 | Premium Customers (High Income, High Spending) |
+| Cluster 2 | Regular Customers (Medium Income, Medium Spending) |
 ## Project Overview
 
 This project performs **Customer Segmentation** using the **K-Means Clustering** algorithm. The trained model predicts which customer segment a new customer belongs to based on:
